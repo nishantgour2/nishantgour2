@@ -42,4 +42,15 @@ Welcome to my Github page! I am Nishant and I am currently A Software Programmer
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
+<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull picture.
+<br/>
+	
+### Latest Blog Post
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+### My Latest YouTube Videos 🌱
+<!-- YOUTUBE:START -->
+
+<!-- YOUTUBE:END -->
+
