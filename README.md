@@ -1,9 +1,9 @@
 ### Hi there 👋 
 ### This is Nishant Gour!
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/nishantgour2)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nishantgour/)
-[![Youtube](https://img.shields.io/badge/-Youtube?style=flat&logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UCOLTI36YQ3t6DFuHNnBpvXQ)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nishantgour2)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishantgour/)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCOLTI36YQ3t6DFuHNnBpvXQ)
 
 
 
