@@ -12,10 +12,12 @@ Welcome to my Github page! I am Nishant and I am currently A Software Programmer
 
 
 
-#### 🌱 Things I am currently working on: 
-- Finish my Computer Engineering Master Degree  
-- Taking online courses about Data Science and Machine Learning 
-- Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
+#### 🌱 ShowOff: 
+- Competitive Programmer.  
+- Smart India Hackathon Finalist 2k19. 
+- Certified Software Programmer.
+- Technical Writer | Blogger.
+- Youtuber
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
@@ -23,7 +25,7 @@ Welcome to my Github page! I am Nishant and I am currently A Software Programmer
 - Exercising 3 days a week
 - Writing Articles
 
-#### :computer: Programming languages and tools: 
+#### :computer: My Tech Tools: 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=nishantgour2&show_icons=true&hide_border=true" />
 
