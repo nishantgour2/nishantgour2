@@ -47,6 +47,8 @@ Welcome to my Github page! I am Nishant and I am currently A Software Programmer
 	
 ### Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [WhatsApp Message Scheduler | Python Hacks | Automate WhatsApp](https://codingnuts.hashnode.dev/whatsapp-message-scheduler-or-python-hacks-or-automate-whatsapp)
+- [URL Shortening with Python !](https://codingnuts.hashnode.dev/url-shortening-with-python)
 <!-- BLOG-POST-LIST:END -->
 
 ### My Latest YouTube Videos 🌱
