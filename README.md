@@ -44,14 +44,15 @@ Welcome to my Github page! I am Nishant and I am currently A Software Programmer
 
 <sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull picture.
 <br/>
+	<br/>
 	
 ### Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
 - [WhatsApp Message Scheduler | Python Hacks | Automate WhatsApp](https://codingnuts.hashnode.dev/whatsapp-message-scheduler-or-python-hacks-or-automate-whatsapp)
 - [URL Shortening with Python !](https://codingnuts.hashnode.dev/url-shortening-with-python)
 <!-- BLOG-POST-LIST:END -->
-
-### My Latest YouTube Videos 🌱
+<br/><br/>
+### Latest YouTube Videos 🌱
 <!-- YOUTUBE:START -->
 
 <!-- YOUTUBE:END -->
