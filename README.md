@@ -3,7 +3,7 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/nishantgour2)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nishantgour/)
-[![Youtube](https://img.shields.io/badge/-Youtube?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nishantgour/)
+[![Youtube](https://img.shields.io/badge/-Youtube?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCOLTI36YQ3t6DFuHNnBpvXQ)
 
 
 
