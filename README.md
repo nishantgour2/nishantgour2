@@ -50,11 +50,11 @@ Welcome to my Github page! I am Nishant and I am currently A Software Programmer
 	
 ### Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [How to get a client IP address using JavaScript?](https://codingnuts.hashnode.dev/how-to-get-a-client-ip-address-using-javascript)
 - [Top 9 New Technology Trends for 2021](https://codingnuts.hashnode.dev/top-9-new-technology-trends-for-2021)
 - [JavaScript Promise Chaining!](https://codingnuts.hashnode.dev/javascript-promise-chaining)
 - [QR CODE IN 3 LINES OF PYTHON CODE | Generate And Access QR Code Easily](https://codingnuts.hashnode.dev/qr-code-in-3-lines-of-python-code-or-generate-and-access-qr-code-easily)
 - [WhatsApp Message Scheduler | Python Hacks | Automate WhatsApp](https://codingnuts.hashnode.dev/whatsapp-message-scheduler-automate-whatsapp)
-- [URL Shortening with Python !](https://codingnuts.hashnode.dev/url-shortening-with-python)
 <!-- BLOG-POST-LIST:END -->
 <br/><br/>
 ### Latest YouTube Videos 🌱
