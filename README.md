@@ -50,11 +50,11 @@ Welcome to my Github page! I am Nishant and I am currently A Software Programmer
 	
 ### Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
-- [Useful Tips to remove Time Limit Exceed (TLE)](https://codingnuts.hashnode.dev/remove-time-limit-exceed)
-- [How to get a client IP address using JavaScript?](https://codingnuts.hashnode.dev/how-to-get-a-client-ip-address-using-javascript)
-- [Top 9 New Technology Trends for 2021](https://codingnuts.hashnode.dev/top-9-new-technology-trends-for-2021)
-- [JavaScript Promise Chaining!](https://codingnuts.hashnode.dev/javascript-promise-chaining)
-- [QR CODE IN 3 LINES OF PYTHON CODE | Generate And Access QR Code Easily](https://codingnuts.hashnode.dev/qr-code-in-3-lines-of-python-code-or-generate-and-access-qr-code-easily)
+- [Useful Tips to remove Time Limit Exceed (TLE)](https://codingnuts.tech/remove-time-limit-exceed)
+- [How to get a client IP address using JavaScript?](https://codingnuts.tech/how-to-get-a-client-ip-address-using-javascript)
+- [Top 9 New Technology Trends for 2021](https://codingnuts.tech/top-9-new-technology-trends-for-2021)
+- [JavaScript Promise Chaining!](https://codingnuts.tech/javascript-promise-chaining)
+- [QR CODE IN 3 LINES OF PYTHON CODE | Generate And Access QR Code Easily](https://codingnuts.tech/qr-code-in-3-lines-of-python-code-or-generate-and-access-qr-code-easily)
 <!-- BLOG-POST-LIST:END -->
 <br/><br/>
 ### Latest YouTube Videos 🌱
