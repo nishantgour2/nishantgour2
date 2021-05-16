@@ -50,11 +50,11 @@ Welcome to my Github page! I am Nishant and I am currently A Software Programmer
 	
 ### Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [5 Reasons Why You Should Write Technical Blog Posts as Developer](https://codingnuts.tech/5-reasons-why-you-should-write-technical-blog-posts-as-developer)
 - [7 Cool Python Project Ideas for Intermediate Developers](https://codingnuts.tech/7-cool-python-project-ideas-for-intermediate-developers)
 - [Useful Tips to remove Time Limit Exceed (TLE)](https://codingnuts.tech/remove-time-limit-exceed)
 - [How to get a client IP address using JavaScript?](https://codingnuts.tech/how-to-get-a-client-ip-address-using-javascript)
 - [Top 9 New Technology Trends for 2021](https://codingnuts.tech/top-9-new-technology-trends-for-2021)
-- [JavaScript Promise Chaining!](https://codingnuts.tech/javascript-promise-chaining)
 <!-- BLOG-POST-LIST:END -->
 <br/><br/>
 ### Latest YouTube Videos 🌱
