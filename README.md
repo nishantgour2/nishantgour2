@@ -50,11 +50,11 @@ Welcome to my Github page! I am Nishant and I am currently A Software Programmer
 	
 ### Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [Python Cheat Sheet! For beginners](https://codingnuts.tech/python-cheat-sheet-for-beginners)
 - [Getting Started with MeteorJS!](https://codingnuts.tech/getting-started-with-meteorjs)
 - [5 Reasons Why You Should Write Technical Blog Posts as Developer](https://codingnuts.tech/5-reasons-why-you-should-write-technical-blog-posts-as-developer)
 - [7 Cool Python Project Ideas for Intermediate Developers](https://codingnuts.tech/7-cool-python-project-ideas-for-intermediate-developers)
 - [Useful Tips to remove Time Limit Exceed (TLE)](https://codingnuts.tech/remove-time-limit-exceed)
-- [How to get a client IP address using JavaScript?](https://codingnuts.tech/how-to-get-a-client-ip-address-using-javascript)
 <!-- BLOG-POST-LIST:END -->
 <br/><br/>
 ### Latest YouTube Videos 🌱
