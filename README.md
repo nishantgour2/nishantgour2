@@ -50,11 +50,11 @@ Welcome to my Github page! I am Nishant and I am currently A Software Programmer
 	
 ### Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [useEffect vs useLayoutEffect](https://codingnuts.tech/useeffect-vs-uselayouteffect)
 - [6 amazing HTML project ideas for beginners](https://codingnuts.tech/6-amazing-html-project-ideas-for-beginners)
 - [Display Hostname and IP address using Python](https://codingnuts.tech/display-hostname-and-ip-address-using-python)
 - [Python Cheat Sheet! For beginners](https://codingnuts.tech/python-cheat-sheet-for-beginners)
 - [Getting Started with MeteorJS!](https://codingnuts.tech/getting-started-with-meteorjs)
-- [5 Reasons Why You Should Write Technical Blog Posts as Developer](https://codingnuts.tech/5-reasons-why-you-should-write-technical-blog-posts-as-developer)
 <!-- BLOG-POST-LIST:END -->
 <br/><br/>
 ### Latest YouTube Videos 🌱
